@@ -58,8 +58,8 @@
 - Collections
 - Generic vs Non-generic
 - What is LINQ?
-- Fluent and Query syntax
-- [Differed execution of LINQ queries](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DeferredExecutionOfLinqQuery.md "Отложенное выполнение запроса LINQ")
+- [Fluent and Query syntax](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/FluentAndQuerySyntax.md "Синтаксис запросов и синтаксис методов в LINQ")
+- [Deffered execution of LINQ queries](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DeferredExecutionOfLinqQuery.md "Отложенное выполнение запроса LINQ")
 - What is the difference between IEnumerable and IQueryable?
 - Task asynchronous programming model VS Threads
 - How does CLR Thread Pool works?

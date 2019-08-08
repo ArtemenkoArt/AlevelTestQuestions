@@ -17,7 +17,7 @@
 ## .NET Section Common
 - What is framework?
 - What is the difference between class and object?
-- Reference VS Value types
+- [Reference VS Value types](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ReferenceVsValueTypes.md "Reference VS Value types")
 - Nullable types
 - Boxing/Unboxing
 - Methods of Object class

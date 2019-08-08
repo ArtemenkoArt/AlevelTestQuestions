@@ -38,7 +38,8 @@
 - What can have an abstract class and interface?
 - How does Virtual modifier work?
 - How does NEW modifier work?
-- Overloading and Overriding?
+- [Overloading?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overloading.md)
+- [Overriding?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overriding.md)
 - How does CLR resolve which version of virtual method in hierarchy to call?
 - Composition vs Inheritance
 - How to wrap external libraries during direct using? ( design pattern Adapter, please have a look )
@@ -48,7 +49,8 @@
 - Can Interface be substituted by Delegate and vice versa?
 - What is Generic and why do we need it?
 - Generic constraints
-- Generics in interfaces and delegates?
+- [Generics in interfaces?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericInterfaces.md)
+- [Generics in delegates?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericDelegates.md)
 - Variation in Generic parameters
 - Immutable types in .net
 - How does type string work in .NET?

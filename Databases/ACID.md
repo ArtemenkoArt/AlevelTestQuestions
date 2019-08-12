@@ -2,19 +2,28 @@
 ## Полезные ссылки
 
 [Multiversion concurrency control](https://en.wikipedia.org/wiki/Multiversion_concurrency_control)
+
 [Руководство для начинающих: ACID и транзакции БД](http://akorsa.ru/2016/08/rukovodstvo-dlya-nachinayushhih-acid-i-tranzaktsii-bd/)
+
 [Разбираем ACID по буквам в NoSQL](https://habr.com/ru/post/228327/)
+
 [SQL запросы. Четыре свойства транзакций в базах данных. Требования ACID в SQL.](https://www.youtube.com/watch?v=ze6rkueiMfY)
+
 [SQL — Транзакции](https://webformyself.com/sql-tranzakcii/)
+
 [Принципы работы СУБД. MVCC](https://habr.com/ru/post/208400/)
+
 [SQL SERVER – ACID](https://blog.sqlauthority.com/2007/12/09/sql-server-acid-atomicity-consistency-isolation-durability/)
+
 [Уровни изоляции](https://professorweb.ru/my/sql-server/2012/level3/3_16.php)
+
 [Уровни изоляции транзакций](https://docs.microsoft.com/ru-ru/sql/odbc/reference/develop-app/transaction-isolation-levels?view=sql-server-2017)
 
+## Транзакции
 
 Транзакции — это группа операций на чтение/запись, выполняющихся только если все операции из группы успешно выполнены.
 
-![Транзакции](/NetSectionCommon/images/transaction-workflow1.gif)
+![Транзакции](images/transaction-workflow1.gif)
 
 По сути транзакции характеризуются следующими четырьмя свойствами (также известными как ACID):
 
@@ -23,7 +32,7 @@
 - Изоляция
 - Долговечность
 
-![ACID](/NetSectionCommon/images/acid.png)
+![ACID](AlevelTestQuestions/Databases/images/acid.png)
 
 ## «A» Атомарность
 

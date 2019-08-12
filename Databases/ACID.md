@@ -32,7 +32,7 @@
 - Изоляция
 - Долговечность
 
-![ACID](/images/acid.png)
+![ACID](images/acid.png)
 
 ## «A» Атомарность
 

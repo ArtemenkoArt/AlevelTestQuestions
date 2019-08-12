@@ -6,12 +6,12 @@
 - CAP theory
 - Relations in relational DB?
 - Normal forms ( enough 3 )
-- ACID
+- [ACID](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/Databases/ACID.md)
 - Indexes and constraints
 - Transactions ( what is it and transaction isolation levels )
 - How does JOIN work?
 - Basic CRUD queries
-- Group By, Order By, Having By 
+- [Group By, Order By, Having By](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/Databases/GroupByOrderByHaving.md) 
 - SQL Server query execution pipeline
 
 ## .NET Section Common

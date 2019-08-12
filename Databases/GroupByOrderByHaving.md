@@ -58,7 +58,7 @@ SELECT [Sub-Category], SUM([Sales]) AS sum FROM  [Orders] GROUP BY [Sub-Category
 
 ```
 
-![SQL Server ORDER BY](images/GROUPBYSUM.png.png)
+![SQL Server ORDER BY](images/GROUPBYSUM.png)
 
 ## Order By
 

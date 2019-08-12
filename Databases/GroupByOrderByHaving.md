@@ -129,7 +129,7 @@ SELECT [Sub-Category], COUNT(*) AS [count] FROM  [Orders] GROUP BY [Sub-Category
 
 ```
 
-![SQL Server ORDER BY DESC](images/ORDERBY1.png)
+![SQL Server ORDER BY DESC](images/GROUPBYH1.png)
 
 ```sql
 
@@ -137,4 +137,4 @@ SELECT [Sub-Category], COUNT(*) AS [count] FROM  [Orders] GROUP BY [Sub-Category
 
 ```
 
-![SQL Server ORDER BY DESC](images/ORDERBY2.png)
+![SQL Server ORDER BY DESC](images/GROUPBYH2.png)

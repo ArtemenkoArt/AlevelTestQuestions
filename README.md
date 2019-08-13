@@ -85,3 +85,24 @@
 - ModelBinders
 - What is the difference between ASP .NET and .NET Core?
 - Javascript ( this and how bind it to the object, hoisting, functional and prototype inheritance, closures, such bullshit like undefined and types in javascript )
+
+## .NET Section MVC and Web API
+- What is MVC? draw a diagram?
+- What is WebApi? Give some examples.
+- What is the RESTFULL API?
+- What is Razor?
+- What is a PartialView? What is PartialView used for?
+- What is ChildAction?
+- What is section?
+- What is a Viewbag?
+- On the first page, you filled in 10 fields, then you went to a new page. You need to use the information from these 10 fields on the new page. How to transfer information between two requests? Give the maximum of options?
+- How to ensure field validation in MVC? How to provide server validation in MVC?
+- What is routing? Where can you add routes?
+- What types of queries do you know?
+- What is the status code? What is the status code used for?
+- What is model binding?
+- What filters in MVC do you know? What can they be used for? Give examples of the use of filters.
+- What is MVC Pipline? Describe what is happening with the request as detailed as possible.
+- Why use layered architecture?
+- What HTML helper's do you know? What can HTML helper's be used for?
+- Why use HTML helper's? Can you do without them?

@@ -2,16 +2,16 @@
 (Sample test questions for self-control)
 
 Artem
-- Fluent and Query syntax
-- What is the difference between string and String?
+- [Fluent and Query syntax](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/FluentAndQuerySyntax.md "Синтаксис запросов и синтаксис методов в LINQ")
+- [What is the difference between string and String?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/stringAndString.md "В чём разница между string и String")
 - How does type string work in .NET?
 - Immutable types in .net
-- Collections
+- [Collections](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Collections.md "Коллекции")
 - How does CLR resolve which version of virtual method in hierarchy to call?
 - What is framework?
-- Differed execution of LINQ queries
+- [Deffered execution of LINQ queries](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DeferredExecutionOfLinqQuery.md "Отложенное выполнение запроса LINQ")
 - How does delegate work?
-- What are an abstract class and interface and what is the difference in using?
+- [What are an abstract class and interface and what is the difference in using?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/AbstractClassAndInterface.md "Абстрактные классы & Интерфейсы")
 
 Ivan 
 - OOP principles with examples
@@ -30,7 +30,7 @@ Vitaliy
 - Basic mechanisms of synchronization in .NET Threading
 - How does Virtual modifier work?
 - What is the difference between class and object?
-- Reference VS Value types
+- [Reference VS Value types](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ReferenceVsValueTypes.md "Reference VS Value types")
 - What is OOP? Do we really need it?
 - What the difference between is and as
 - What can have an abstract class and interface?
@@ -50,8 +50,10 @@ Vlad
 - How does CLR Thread Pool works?
 
 Yaroslav
-- Overloading and Overriding?
-- Generics in interfaces and delegates?
+- [Overloading?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overloading.md)
+- [Overriding?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overriding.md)
+- [Generics in interfaces?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericInterfaces.md)
+- [Generics in delegates?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericDelegates.md)
 - Why do we need to determine Equals and GetHashCode?
 - What is LINQ?
 - OOP vs Functional paradigm 

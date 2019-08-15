@@ -54,7 +54,7 @@
 - Variation in Generic parameters
 - Immutable types in .net
 - How does type string work in .NET?
-- Try catch finally ?
+- [Try catch finally ?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/TryCatchFinally.md)
 - How does using work and  IDisposable interface?
 - Garbage collector and how it works?
 - [Collections](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Collections.md "Коллекции")

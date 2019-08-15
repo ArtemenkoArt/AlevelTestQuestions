@@ -57,7 +57,7 @@
 - Try catch finally ?
 - How does using work and  IDisposable interface?
 - Garbage collector and how it works?
-- Collections
+- [Collections](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Collections.md "Коллекции")
 - Generic vs Non-generic
 - What is LINQ?
 - [Fluent and Query syntax](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/FluentAndQuerySyntax.md "Синтаксис запросов и синтаксис методов в LINQ")

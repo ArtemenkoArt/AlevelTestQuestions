@@ -11,8 +11,8 @@ Ivan
 - Basic CRUD queries
 
 Vitaliy
-- ACID
-- Group By, Order By, Having By
+- [ACID](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/Databases/ACID.md)
+- [Group By, Order By, Having By](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/Databases/GroupByOrderByHaving.md)
 
 Vlad
 - Normal forms ( enough 3 )

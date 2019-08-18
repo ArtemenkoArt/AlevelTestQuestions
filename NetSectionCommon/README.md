@@ -10,7 +10,7 @@ Artem
 - How does CLR resolve which version of virtual method in hierarchy to call?
 - What is framework?
 - [Deffered execution of LINQ queries](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DeferredExecutionOfLinqQuery.md "Отложенное выполнение запроса LINQ")
-- How does delegate work?
+- [How does delegate work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Delegates.md)
 - [What are an abstract class and interface and what is the difference in using?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/AbstractClassAndInterface.md "Абстрактные классы & Интерфейсы")
 
 Ivan 

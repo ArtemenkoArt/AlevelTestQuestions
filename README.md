@@ -70,7 +70,7 @@
 - Design patterns by GOF ( prepare 1-2 for which type of pattern: creational, structural, behavioral)
 
 ## .NET Section WEB
-- YOU SHOULD DEFINITELY UNDERSTAND WHAT HAPPENS WHEN YOU TYPE SOMETHING IN URL address and press ENTER
+- [YOU SHOULD DEFINITELY UNDERSTAND WHAT HAPPENS WHEN YOU TYPE SOMETHING IN URL address and press ENTER](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionWeb/URLAddressAndPressEnter.md)
 - What is MVC and how does it work?
 - What is the difference between MVC/MVP/MVVM?
 - What is the difference between MVC and Web API?

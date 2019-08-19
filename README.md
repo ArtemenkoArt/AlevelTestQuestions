@@ -22,7 +22,7 @@
 - Boxing/Unboxing
 - Methods of Object class
 - [What is the difference between string and String?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/stringAndString.md "В чём разница между string и String")
-- Why do we need to determine Equals and GetHashCode?
+- [Why do we need to determine Equals and GetHashCode?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/EqualsGetHCode.md)
 - What is Hash and for what purpose?
 - Shallow Vs Deep Copy ( how to implement Deep copy )
 - What is auto-properties and how it works?

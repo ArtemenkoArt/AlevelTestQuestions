@@ -22,7 +22,7 @@
 - Boxing/Unboxing
 - Methods of Object class
 - [What is the difference between string and String?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/stringAndString.md "В чём разница между string и String")
-- Why do we need to determine Equals and GetHashCode?
+- [Why do we need to determine Equals and GetHashCode?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/EqualsGetHCode.md)
 - What is Hash and for what purpose?
 - Shallow Vs Deep Copy ( how to implement Deep copy )
 - What is auto-properties and how it works?
@@ -43,7 +43,7 @@
 - How does CLR resolve which version of virtual method in hierarchy to call?
 - Composition vs Inheritance
 - How to wrap external libraries during direct using? ( design pattern Adapter, please have a look )
-- How does delegate work?
+- [How does delegate work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Delegates.md)
 - What is the difference between Delegate and Event? ( you must know how to write your own event )
 - Which design pattern was taken for Events implementation in .Net? ( Publish/ Subscribe )
 - Can Interface be substituted by Delegate and vice versa?
@@ -54,10 +54,10 @@
 - Variation in Generic parameters
 - Immutable types in .net
 - How does type string work in .NET?
-- Try catch finally ?
+- [Try catch finally ?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/TryCatchFinally.md)
 - How does using work and  IDisposable interface?
 - Garbage collector and how it works?
-- Collections
+- [Collections](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Collections.md "Коллекции")
 - Generic vs Non-generic
 - What is LINQ?
 - [Fluent and Query syntax](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/FluentAndQuerySyntax.md "Синтаксис запросов и синтаксис методов в LINQ")
@@ -85,3 +85,24 @@
 - ModelBinders
 - What is the difference between ASP .NET and .NET Core?
 - Javascript ( this and how bind it to the object, hoisting, functional and prototype inheritance, closures, such bullshit like undefined and types in javascript )
+
+## .NET Section MVC and Web API
+- What is MVC? draw a diagram?
+- What is WebApi? Give some examples.
+- What is the RESTFULL API?
+- What is Razor?
+- What is a PartialView? What is PartialView used for?
+- What is ChildAction?
+- What is section?
+- What is a Viewbag?
+- On the first page, you filled in 10 fields, then you went to a new page. You need to use the information from these 10 fields on the new page. How to transfer information between two requests? Give the maximum of options?
+- How to ensure field validation in MVC? How to provide server validation in MVC?
+- What is routing? Where can you add routes?
+- What types of queries do you know?
+- What is the status code? What is the status code used for?
+- What is model binding?
+- What filters in MVC do you know? What can they be used for? Give examples of the use of filters.
+- What is MVC Pipline? Describe what is happening with the request as detailed as possible.
+- Why use layered architecture?
+- What HTML helper's do you know? What can HTML helper's be used for?
+- Why use HTML helper's? Can you do without them?

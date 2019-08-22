@@ -43,7 +43,7 @@
 - How does CLR resolve which version of virtual method in hierarchy to call?
 - Composition vs Inheritance
 - How to wrap external libraries during direct using? ( design pattern Adapter, please have a look )
-- [How does delegate work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Delegates.md)
+- [How does delegate and event work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DelegateAndEvent.md)
 - What is the difference between Delegate and Event? ( you must know how to write your own event )
 - Which design pattern was taken for Events implementation in .Net? ( Publish/ Subscribe )
 - Can Interface be substituted by Delegate and vice versa?
@@ -62,7 +62,7 @@
 - What is LINQ?
 - [Fluent and Query syntax](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/FluentAndQuerySyntax.md "Синтаксис запросов и синтаксис методов в LINQ")
 - [Deffered execution of LINQ queries](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DeferredExecutionOfLinqQuery.md "Отложенное выполнение запроса LINQ")
-- What is the difference between IEnumerable and IQueryable?
+- [What is the difference between IEnumerable and IQueryable?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/IEnumerableVsIQueryable.md)
 - Task asynchronous programming model VS Threads
 - How does CLR Thread Pool works?
 - Basic mechanisms of synchronization in .NET Threading

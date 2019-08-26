@@ -36,7 +36,7 @@
 - OOP principles with examples
 - [What are an abstract class and interface and what is the difference in using?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/AbstractClassAndInterface.md "Абстрактные классы & Интерфейсы")
 - What can have an abstract class and interface?
-- How does Virtual modifier work?
+- [How does Virtual modifier work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Virtual.md)
 - How does NEW modifier work?
 - [Overloading?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overloading.md)
 - [Overriding?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overriding.md)
@@ -53,7 +53,7 @@
 - [Generics in delegates?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericDelegates.md)
 - Variation in Generic parameters
 - Immutable types in .net
-- [How does type string work in .NET?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Virtual.md)
+- How does type string work in .NET?
 - [Try catch finally ?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/TryCatchFinally.md)
 - How does using work and  IDisposable interface?
 - Garbage collector and how it works?

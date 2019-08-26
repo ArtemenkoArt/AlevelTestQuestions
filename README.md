@@ -16,7 +16,7 @@
 
 ## .NET Section Common
 - What is framework?
-- What is the difference between class and object?
+- [What is the difference between class and object?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ClassAndObject.md)
 - [Reference VS Value types](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ReferenceVsValueTypes.md "Reference VS Value types")
 - Nullable types
 - Boxing/Unboxing
@@ -53,7 +53,7 @@
 - [Generics in delegates?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericDelegates.md)
 - Variation in Generic parameters
 - Immutable types in .net
-- How does type string work in .NET?
+- [How does type string work in .NET?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Virtual.md)
 - [Try catch finally ?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/TryCatchFinally.md)
 - How does using work and  IDisposable interface?
 - Garbage collector and how it works?
@@ -87,9 +87,9 @@
 - Javascript ( this and how bind it to the object, hoisting, functional and prototype inheritance, closures, such bullshit like undefined and types in javascript )
 
 ## .NET Section MVC and Web API
-- What is MVC? draw a diagram?
+- [What is MVC? draw a diagram?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionMvcAndWebApi/MVC.md)
 - What is WebApi? Give some examples.
-- What is the RESTFULL API?
+- [What is the RESTFULL API?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionMvcAndWebApi/RESTFULLAPI.md)
 - What is Razor?
 - What is a PartialView? What is PartialView used for?
 - What is ChildAction?

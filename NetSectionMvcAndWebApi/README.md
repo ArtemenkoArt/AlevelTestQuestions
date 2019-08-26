@@ -14,13 +14,13 @@ Ivan
 - Why use layered architecture?
 
 Vitaliy
+- [What is MVC? draw a diagram?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionMvcAndWebApi/MVC.md)
 - What filters in MVC do you know? What can they be used for? Give examples of the use of filters.
-- What is the RESTFULL API?
+- [What is the RESTFULL API?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionMvcAndWebApi/RESTFULLAPI.md)
 - What is a PartialView? What is PartialView used for?
 - What is MVC Pipline? Describe what is happening with the request as detailed as possible.
 
 Vlad
-- What is MVC? draw a diagram?
 - What types of queries do you know?
 - What is section?
 

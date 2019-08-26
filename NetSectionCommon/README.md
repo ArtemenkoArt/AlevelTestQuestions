@@ -28,8 +28,8 @@ Ivan
 Vitaliy
 - Generic constraints
 - Basic mechanisms of synchronization in .NET Threading
-- How does Virtual modifier work?
-- What is the difference between class and object?
+- [How does Virtual modifier work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Virtual.md)
+- [What is the difference between class and object?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ClassAndObject.md)
 - [Reference VS Value types](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ReferenceVsValueTypes.md "Reference VS Value types")
 - What is OOP? Do we really need it?
 - What the difference between is and as

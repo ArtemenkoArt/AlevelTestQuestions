@@ -12,8 +12,8 @@ Ivan
 - What is the difference between MVC/MVP/MVVM?
 
 Vitaliy
-- YOU SHOULD DEFINITELY UNDERSTAND WHAT HAPPENS WHEN YOU TYPE SOMETHING IN URL address and press ENTER
-- What is the difference between ASP .NET and .NET Core?
+- [YOU SHOULD DEFINITELY UNDERSTAND WHAT HAPPENS WHEN YOU TYPE SOMETHING IN URL address and press ENTER](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionWeb/URLAddressAndPressEnter.md)
+- [What is the difference between ASP .NET and .NET Core?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionWeb/NETFrameworkAndNETCore.md)
 - Javascript ( this and how bind it to the object, hoisting, functional and prototype inheritance, closures, such bullshit like undefined and types in javascript )
 
 Vlad

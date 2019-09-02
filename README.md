@@ -16,7 +16,7 @@
 
 ## .NET Section Common
 - What is framework?
-- What is the difference between class and object?
+- [What is the difference between class and object?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ClassAndObject.md)
 - [Reference VS Value types](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ReferenceVsValueTypes.md "Reference VS Value types")
 - Nullable types
 - Boxing/Unboxing
@@ -36,7 +36,7 @@
 - OOP principles with examples
 - [What are an abstract class and interface and what is the difference in using?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/AbstractClassAndInterface.md "Абстрактные классы & Интерфейсы")
 - What can have an abstract class and interface?
-- How does Virtual modifier work?
+- [How does Virtual modifier work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Virtual.md)
 - How does NEW modifier work?
 - [Overloading?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overloading.md)
 - [Overriding?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overriding.md)
@@ -87,9 +87,9 @@
 - Javascript ( this and how bind it to the object, hoisting, functional and prototype inheritance, closures, such bullshit like undefined and types in javascript )
 
 ## .NET Section MVC and Web API
-- What is MVC? draw a diagram?
+- [What is MVC? draw a diagram?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionMvcAndWebApi/MVC.md)
 - What is WebApi? Give some examples.
-- What is the RESTFULL API?
+- [What is the RESTFULL API?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionMvcAndWebApi/RESTFULLAPI.md)
 - What is Razor?
 - What is a PartialView? What is PartialView used for?
 - What is ChildAction?

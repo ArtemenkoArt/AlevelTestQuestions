@@ -91,7 +91,7 @@
 - What is WebApi? Give some examples.
 - [What is the RESTFULL API?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionMvcAndWebApi/RESTFULLAPI.md)
 - What is Razor?
-- What is a PartialView? What is PartialView used for?
+- [What is a PartialView? What is PartialView used for?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionMvcAndWebApi/PartialView.md)
 - What is ChildAction?
 - What is section?
 - What is a Viewbag?

@@ -4,11 +4,11 @@
 Artem
 - [Fluent and Query syntax](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/FluentAndQuerySyntax.md "Синтаксис запросов и синтаксис методов в LINQ")
 - [What is the difference between string and String?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/stringAndString.md "В чём разница между string и String")
-- How does type string work in .NET?
+- [How does type string work in .NET?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/StringInNet.md "Как работает тип string в .NET?")
 - Immutable types in .net
 - [Collections](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Collections.md "Коллекции")
 - How does CLR resolve which version of virtual method in hierarchy to call?
-- What is framework?
+- [What is framework?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/WhatIsFramework.md "Что такое фреймворк?")
 - [Deffered execution of LINQ queries](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DeferredExecutionOfLinqQuery.md "Отложенное выполнение запроса LINQ")
 - [How does delegate and event work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DelegateAndEvent.md)
 - [What are an abstract class and interface and what is the difference in using?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/AbstractClassAndInterface.md "Абстрактные классы & Интерфейсы")

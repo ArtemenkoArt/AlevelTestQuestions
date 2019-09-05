@@ -15,7 +15,7 @@
 - SQL Server query execution pipeline
 
 ## .NET Section Common
-- What is framework?
+- [What is framework?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/WhatIsFramework.md "Что такое фреймворк?")
 - [What is the difference between class and object?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ClassAndObject.md)
 - [Reference VS Value types](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ReferenceVsValueTypes.md "Reference VS Value types")
 - Nullable types
@@ -53,7 +53,7 @@
 - [Generics in delegates?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericDelegates.md)
 - Variation in Generic parameters
 - Immutable types in .net
-- How does type string work in .NET?
+- [How does type string work in .NET?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/StringInNet.md "Как работает тип string в .NET?")
 - [Try catch finally ?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/TryCatchFinally.md)
 - How does using work and  IDisposable interface?
 - Garbage collector and how it works?

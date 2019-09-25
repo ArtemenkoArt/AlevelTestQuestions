@@ -14,16 +14,16 @@ Artem
 - [What are an abstract class and interface and what is the difference in using?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/AbstractClassAndInterface.md "Абстрактные классы & Интерфейсы")
 
 Ivan 
-- OOP principles with examples
+- [OOP principles with examples](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/PrinciplesOfOOP.md)
 - Variation in Generic parameters
 - Can Interface be substituted by Delegate and vice versa?
-- Composition vs Inheritance
-- SOLID, KISS, DRY
-- Operator typeof vs *Object.GetType()
-- Generic vs Non-generic
+- [Composition vs Inheritance](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Composition_vs_inheritance.md)
+- [SOLID, KISS, DRY](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/SOLID_KISS_DRY.md)
+- [Operator typeof vs *Object.GetType()](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/TypeofVsGetType.md)
+- [Generic vs Non-generic](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericVsNon-generic.md)
 - What is assembly and from which parts consist of?
 - How to wrap external libraries during direct using? ( design pattern Adapter, please have a look )
-- Readonly vs Const
+- [Readonly vs Const](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ConstVsReadonly.md)
 
 Vitaliy
 - Generic constraints

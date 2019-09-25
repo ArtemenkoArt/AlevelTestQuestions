@@ -27,13 +27,13 @@
 - Shallow Vs Deep Copy ( how to implement Deep copy )
 - What is auto-properties and how it works?
 - Implicit and explicit casts
-- Readonly vs Const
-- Operator typeof vs *Object.GetType()
+- [Readonly vs Const](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ConstVsReadonly.md)
+- [Operator typeof vs *Object.GetType()](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/TypeofVsGetType.md)
 - What the difference between is and as
 - What is assembly and from which parts consist of?
 - What is OOP? Do we really need it?
 - OOP vs Functional paradigm 
-- OOP principles with examples
+- [OOP principles with examples](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/PrinciplesOfOOP.md)
 - [What are an abstract class and interface and what is the difference in using?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/AbstractClassAndInterface.md "Абстрактные классы & Интерфейсы")
 - What can have an abstract class and interface?
 - [How does Virtual modifier work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Virtual.md)
@@ -41,7 +41,7 @@
 - [Overloading?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overloading.md)
 - [Overriding?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overriding.md)
 - How does CLR resolve which version of virtual method in hierarchy to call?
-- Composition vs Inheritance
+- [Composition vs Inheritance](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Composition_vs_inheritance.md)
 - How to wrap external libraries during direct using? ( design pattern Adapter, please have a look )
 - [How does delegate and event work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DelegateAndEvent.md)
 - What is the difference between Delegate and Event? ( you must know how to write your own event )
@@ -58,7 +58,7 @@
 - How does using work and  IDisposable interface?
 - Garbage collector and how it works?
 - [Collections](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Collections.md "Коллекции")
-- Generic vs Non-generic
+- [Generic vs Non-generic](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericVsNon-generic.md)
 - What is LINQ?
 - [Fluent and Query syntax](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/FluentAndQuerySyntax.md "Синтаксис запросов и синтаксис методов в LINQ")
 - [Deffered execution of LINQ queries](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DeferredExecutionOfLinqQuery.md "Отложенное выполнение запроса LINQ")
@@ -66,7 +66,7 @@
 - Task asynchronous programming model VS Threads
 - How does CLR Thread Pool works?
 - Basic mechanisms of synchronization in .NET Threading
-- SOLID, KISS, DRY
+- [SOLID, KISS, DRY](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/SOLID_KISS_DRY.md)
 - Design patterns by GOF ( prepare 1-2 for which type of pattern: creational, structural, behavioral)
 
 ## .NET Section WEB

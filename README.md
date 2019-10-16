@@ -4,8 +4,8 @@
 ## Databases
 - Relational and NoSql databases?
 - CAP theory
-- Relations in relational DB?
-- Normal forms ( enough 3 )
+- [Relational and NoSql databases?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/Databases/RelationalAndNoSqlDatabases.md)
+- [Normal forms ( enough 3 )](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/Databases/NormalForms.md)
 - [ACID](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/Databases/ACID.md)
 - Indexes and constraints
 - Transactions ( what is it and transaction isolation levels )
@@ -18,15 +18,15 @@
 - [What is framework?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/WhatIsFramework.md "Что такое фреймворк?")
 - [What is the difference between class and object?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ClassAndObject.md)
 - [Reference VS Value types](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ReferenceVsValueTypes.md "Reference VS Value types")
-- Nullable types
-- Boxing/Unboxing
+- [Nullable types](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/NullableTypes.md)
+- [Boxing/Unboxing](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/BoxingAndUnboxing.md)
 - Methods of Object class
 - [What is the difference between string and String?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/stringAndString.md "В чём разница между string и String")
 - [Why do we need to determine Equals and GetHashCode?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/EqualsGetHCode.md)
 - What is Hash and for what purpose?
-- Shallow Vs Deep Copy ( how to implement Deep copy )
+- [Shallow Vs Deep Copy ( how to implement Deep copy )](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ShallowVsDeepCopy.md)
 - What is auto-properties and how it works?
-- Implicit and explicit casts
+- [Implicit and explicit casts](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ImplicitAndExplicitCasts.md)
 - [Readonly vs Const](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ConstVsReadonly.md)
 - [Operator typeof vs *Object.GetType()](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/TypeofVsGetType.md)
 - What the difference between is and as
@@ -37,17 +37,17 @@
 - [What are an abstract class and interface and what is the difference in using?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/AbstractClassAndInterface.md "Абстрактные классы & Интерфейсы")
 - What can have an abstract class and interface?
 - [How does Virtual modifier work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Virtual.md)
-- How does NEW modifier work?
+- [How does NEW modifier work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/HowDoesNewModifierWork.md)
 - [Overloading?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overloading.md)
 - [Overriding?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overriding.md)
 - How does CLR resolve which version of virtual method in hierarchy to call?
 - [Composition vs Inheritance](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Composition_vs_inheritance.md)
 - How to wrap external libraries during direct using? ( design pattern Adapter, please have a look )
 - [How does delegate and event work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DelegateAndEvent.md)
-- What is the difference between Delegate and Event? ( you must know how to write your own event )
+- [What is the difference between Delegate and Event? ( you must know how to write your own event )](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/WhatIsTheDifferenceBetweenDelegateAndEvent.md)
 - Which design pattern was taken for Events implementation in .Net? ( Publish/ Subscribe )
 - Can Interface be substituted by Delegate and vice versa?
-- What is Generic and why do we need it?
+- [What is Generic and why do we need it?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/WhatIsGenericAndWhyDoWeNeedIt.md)
 - Generic constraints
 - [Generics in interfaces?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericInterfaces.md)
 - [Generics in delegates?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericDelegates.md)
@@ -55,8 +55,8 @@
 - Immutable types in .net
 - [How does type string work in .NET?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/StringInNet.md "Как работает тип string в .NET?")
 - [Try catch finally ?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/TryCatchFinally.md)
-- How does using work and  IDisposable interface?
-- Garbage collector and how it works?
+- [How does using work and IDisposable interface?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/HowDoesUsingWorkAndIDisposableInterface.md)
+- [Garbage collector and how it works?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GarbageCollectorAndHowItWorks.md)
 - [Collections](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Collections.md "Коллекции")
 - [Generic vs Non-generic](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GenericVsNon-generic.md)
 - What is LINQ?
@@ -64,7 +64,7 @@
 - [Deffered execution of LINQ queries](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/DeferredExecutionOfLinqQuery.md "Отложенное выполнение запроса LINQ")
 - [What is the difference between IEnumerable and IQueryable?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/IEnumerableVsIQueryable.md)
 - Task asynchronous programming model VS Threads
-- How does CLR Thread Pool works?
+- [How does CLR Thread Pool works?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/HowDoesCLRThreadPoolWorks.md)
 - Basic mechanisms of synchronization in .NET Threading
 - [SOLID, KISS, DRY](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/SOLID_KISS_DRY.md)
 - Design patterns by GOF ( prepare 1-2 for which type of pattern: creational, structural, behavioral)
@@ -77,10 +77,10 @@
 - Application lifecycle
 - Http Request lifecycle
 - HttpHandlers and HttpModules
-- HTTP Verbs and Headers
+- [HTTP Verbs and Headers](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionWeb/HTTPVerbsAndHeaders.md)
 - Sessions
-- Cookies
-- Action Filters
+- [Cookies](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionWeb/Coockies.md)
+- [Action Filters](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionWeb/ActionFilters.md)
 - Routing
 - ModelBinders
 - What is the difference between ASP .NET and .NET Core?

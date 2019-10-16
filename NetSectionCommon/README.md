@@ -38,16 +38,16 @@ Vitaliy
 - Which design pattern was taken for Events implementation in .Net? ( Publish/ Subscribe )
 
 Vlad
-- How does NEW modifier work?
-- Implicit and explicit casts
-- Boxing/Unboxing
-- What is the difference between Delegate and Event? ( you must know how to write your own event )
-- Garbage collector and how it works?
-- Nullable types
-- How does using work and  IDisposable interface?
-- Shallow Vs Deep Copy ( how to implement Deep copy )
-- What is Generic and why do we need it?
-- How does CLR Thread Pool works?
+- [How does NEW modifier work?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/HowDoesNewModifierWork.md)
+- [Implicit and explicit casts](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ImplicitAndExplicitCasts.md)
+- [Boxing/Unboxing](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/BoxingAndUnboxing.md)
+- [What is the difference between Delegate and Event? ( you must know how to write your own event )](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/WhatIsTheDifferenceBetweenDelegateAndEvent.md)
+- [Garbage collector and how it works?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/GarbageCollectorAndHowItWorks.md)
+- [Nullable types](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/NullableTypes.md)
+- [How does using work and IDisposable interface?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/HowDoesUsingWorkAndIDisposableInterface.md)
+- [Shallow Vs Deep Copy ( how to implement Deep copy )](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/ShallowVsDeepCopy.md)
+- [What is Generic and why do we need it?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/WhatIsGenericAndWhyDoWeNeedIt.md)
+- [How does CLR Thread Pool works?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/HowDoesCLRThreadPoolWorks.md)
 
 Yaroslav
 - [Overloading?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionCommon/Overloading.md)

@@ -15,8 +15,8 @@ Vitaliy
 - [Group By, Order By, Having By](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/Databases/GroupByOrderByHaving.md)
 
 Vlad
-- Normal forms ( enough 3 )
-- Relational and NoSql databases?
+- [Normal forms ( enough 3 )](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/Databases/NormalForms.md)
+- [Relational and NoSql databases?](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/Databases/RelationalAndNoSqlDatabases.md)
 
 Yaroslav
 - CAP theory

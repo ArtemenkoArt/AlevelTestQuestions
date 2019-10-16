@@ -17,9 +17,9 @@ Vitaliy
 - Javascript ( this and how bind it to the object, hoisting, functional and prototype inheritance, closures, such bullshit like undefined and types in javascript )
 
 Vlad
-- HTTP Verbs and Headers
-- Action Filters
-- Cookies
+- [HTTP Verbs and Headers](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionWeb/HTTPVerbsAndHeaders.md)
+- [Action Filters](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionWeb/ActionFilters.md)
+- [Cookies](https://github.com/ArtemenkoArt/AlevelTestQuestions/blob/master/NetSectionWeb/Coockies.md)
 
 Yaroslav
 - Sessions
